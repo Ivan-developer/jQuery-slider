@@ -3,6 +3,12 @@
     width: auto;
 }
 
+.slider__image:hover{
+	transition: 0.5s;
+	height: 250px;
+    width: auto;
+}
+
 /*ÐžÐ±Ð½ÑƒÐ»ÐµÐ½Ð¸Ðµ*/
 *,*:before,*:after{
 	padding: 0;
